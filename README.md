@@ -3,7 +3,6 @@
 # Hi 👋, I'm Tariqul Islam
 
 🚀 Frontend-focused Software Developer | React & Next.js  
-🏢 Software Developer at Prosman Technology  
 📍 Dhaka, Bangladesh
 
 ---
