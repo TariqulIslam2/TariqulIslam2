@@ -57,7 +57,7 @@ I enjoy:
 - Clean Architecture & Scalable Frontend Patterns
 - Better UI/UX & Accessibility
 
----
+
 ---
 ## 📊 GitHub Stats
 
