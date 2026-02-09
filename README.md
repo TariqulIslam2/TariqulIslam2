@@ -58,9 +58,12 @@ I enjoy:
 - Better UI/UX & Accessibility
 
 ---
+---
+## 📊 GitHub Stats
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TariqulIslam2&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=TariqulIslam2&theme=tokyonight)
- 
+![GitHub Streak](https://streak-stats.demolab.com?user=TariqulIslam2&theme=tokyonight)
+
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
