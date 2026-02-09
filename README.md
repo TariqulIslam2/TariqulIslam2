@@ -58,8 +58,8 @@ I enjoy:
 - Better UI/UX & Accessibility
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=tariqulislam2&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TariqulIslam2&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/tariqulislam2)  
+![GitHub metrics](https://metrics.lecoq.io/TariqulIslam2)  
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
