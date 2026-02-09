@@ -61,8 +61,6 @@ I enjoy:
 ---
 ## 📊 GitHub Stats
 
-![Tariqul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TariqulIslam2&show_icons=true&count_private=true&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=TariqulIslam2&theme=tokyonight)
 
 
