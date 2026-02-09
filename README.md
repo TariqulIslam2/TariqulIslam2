@@ -59,12 +59,5 @@ I enjoy:
 
 ---
 
-## 📫 Connect With Me
-
-- 💼 LinkedIn: *(add your link here)*
-- 📧 Email: *(your email)*
-- 🌐 Portfolio: *(if you have one)*
-
----
 
 ⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
